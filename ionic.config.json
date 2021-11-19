@@ -1,0 +1,7 @@
+{
+  "name": "AppGPv1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
